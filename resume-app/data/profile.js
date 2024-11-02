@@ -164,23 +164,23 @@ const profileData = {
     {
       desc: `<strong>DevOps Engineering</strong> by <strong>Udemy</strong>.
       (<a target='_blank' rel='noreferrer' href='https://confirm.udacity.com/RLMHXAWZ'>https://goo.gl/RGRzVn</a>)`,
-      date: "May - Nov 2018",
+      date: "2024",
     },
     {
       desc: `<strong>AI Career Essentials</strong> by <strong>ALX Africa</strong>.
        (<a target='_blank' rel='noreferrer' href='https://nptel.ac.in/noc/E_Certificate/linkedin/noc17-cs06/NPTEL17CS0626270067AN.jpg'>
        https://goo.gl/X3HEdR</a>)`,
-      date: "Jan - Mar 2017",
+      date: "Jan - Apr 2024",
     },
     {
       desc: `<strong>AWS Cloud Engineering</strong> by <strong>JOMACS IT Solutions Inc</strong>.
       (<a target='_blank' rel='noreferrer' href='https://confirm.udacity.com/RLMHXAWZ'>https://goo.gl/RGRzVn</a>)`,
-      date: "May - Nov 2018",
+      date: "May - Nov 2023",
     },
     {
       desc: `<strong>Data Analytic</strong> by <strong>JOMACS IT Solutions Inc</strong>.
       (<a target='_blank' rel='noreferrer' href='https://confirm.udacity.com/RLMHXAWZ'>https://goo.gl/RGRzVn</a>)`,
-      date: "May - Nov 2018",
+      date: "May - Nov 2023",
     },
   ],
   events: [],

@@ -2,7 +2,7 @@ const profileData = {
   title: "Resume",
   name: "Olufemi Elijah Ige",
   sub_title: "Cloud Infrastructure Engineer and DevOps Engineer",
-  logoURL: "assets/images/dp.jpg",
+  //logoURL: "assets/images/dp.jpg",
   about: {
     intro: `I am a motivated professional with expertise in Applied Mathematics, Data Analytics, AWS Cloud Engineering, and DevOps Engineering. I excel in designing scalable solutions on AWS, optimizing operational efficiency using services like EC2, S3, RDS, Lambda, etc, and implementing CI/CD pipelines with tools like Jenkins. In Data Science, I leverage applied mathematics for forecasting and decision-making, with proficiency in Python, SQL, and big data technologies. I am committed to automation, IT security, and aligning solutions with organizational strategies, known for fostering innovation and operational excellence. I am eager to contribute my technical skills to support both cloud and data-driven initiatives. I'm ready to leverage technical expertise and passion for continuous learning to contribute to dynamic mathematical-oriented, data analytics, and cloud computing journey of any project or team.`,
     contact: {
